@@ -1,4 +1,4 @@
 # CYB333
-Port Scanner
-A port scanner created with the help of PythonForBeginners & Udemy.
-Used to determine which ports on a network is open.
+Port Scanner  <br />
+A port scanner created with the help of PythonForBeginners & Udemy. <br />
+Used to determine which ports on a network is open. <br />
